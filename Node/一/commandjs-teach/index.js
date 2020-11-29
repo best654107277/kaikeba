@@ -17,4 +17,7 @@
 // console.log(http);
 
 //第三方模块
-const atest = require('test')
+// const atest = require('test')
+
+const  lodash = require('lodash')
+console.log(lodash);
